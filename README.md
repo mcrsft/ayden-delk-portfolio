@@ -9,11 +9,6 @@ It includes my resume, contact form, and project highlights.
 - Ubuntu Server
 - Custom CSS and JavaScript
 
-## Setup Instructions
-1. Clone the repo
-2. Run `bundle install`
-3. Run `bundle exec jekyll serve` to preview locally
-4. Deploy by copying the `_site` folder to your web server
 
 ## License
 MIT
